@@ -274,7 +274,7 @@ function App() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-gray-400">
-        <p>© {new Date().getFullYear()} Александр Фрост. Все права защищены.</p>
+        <p>© {new Date().getFullYear()} Макс Треф. Все права защищены.</p>
       </footer>
     </div>
   );
