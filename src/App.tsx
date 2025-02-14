@@ -84,7 +84,7 @@ function App() {
         />
 
         <div className="container mx-auto px-6 relative z-10 text-center">
-          <h1 className="text-8xl font-bold mb-6">АЛЕКСАНДР ФРОСТ</h1>
+          <h1 className="text-8xl font-bold mb-6">МАКС ТРЕФ</h1>
           <p className="text-2xl mb-12 text-gray-300">Мастер микромагии и иллюзий</p>
           
           {/* Promo Video Button */}
