@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 {
-  "homepage": "https:/ilonakozlova.github.io/sunrise_wizard",
+  "homepage": "https://ilonakozlova.github.io/sunrise_wizard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -38,7 +38,7 @@
 }
 =======
 {
-  "homepage": "https://ilonakozlova.github.io//sunrise_wizard",
+  "homepage": "https://ilonakozlova.github.io/sunrise_wizard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
